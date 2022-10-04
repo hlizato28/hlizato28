@@ -2,7 +2,9 @@
 
 ### About me:
 
-#### Markup : * Bullet list
+* 🎓 I graduated as Bachelor of Business Informatics from Technische Hochschule Brandenburg, Germany in August 2022
+* 🌱 I'm a beginner in JavaScript and still learning to expand my knowledge
+* ❤️ Interest: Frontend Developer 
 
 
 <!--
