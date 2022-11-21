@@ -3,8 +3,8 @@
 ### About me:
 
 * 🎓 I graduated as Bachelor of Business Informatics from Technische Hochschule Brandenburg, Germany in August 2022
-* 🌱 I'm a beginner in JavaScript and still learning to expand my knowledge
-* ❤️ Interest: Frontend Developer 
+* 🌱 I'm a beginner in web-development and still learning to expand my knowledge
+* ❤️ Interest: Fullstack Web-Developer 
 
 
 <!--
