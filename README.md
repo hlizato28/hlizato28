@@ -2,7 +2,7 @@
 
 ### About me:
 
-* 🎓 I graduated as Bachelor of Business Informatics from Technische Hochschule Brandenburg, Germany in August 2022
+* 🎓 I graduated as Bachelor of Business and Information Systems Engineering from Technische Hochschule Brandenburg, Germany in August 2022
 * 🌱 I'm a beginner in web-development and still learning to expand my knowledge
 * ❤️ Interest: Fullstack Web-Developer 
 
